@@ -9,7 +9,7 @@ This is the implmentation of a small part of our GoFo system
 ## Tasks List
 ### Peter Atef
 
-Main, System, Playground, User
+Main, System, Player, User
 #
 ### Abdelrahman Ali
 eWallet
